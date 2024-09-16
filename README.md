@@ -29,4 +29,7 @@ Feedback:
 + Scalable - company size / infreq, high volume transactions
 
 Goals:
-> Minimal clicks UI
+> Minimal clicks mobile UI for consumers
+> Privacy info
+> Web ui for researches
+> Generalised smart contract
