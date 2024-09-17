@@ -12,6 +12,9 @@ Idea:
 Audience:
 > Sports science researchers testing various mesocycles and exercises
 
+Use of Stellar:
+> Utilise Stellar Network to...
+
 Research:
 ???
 
